@@ -24,4 +24,10 @@
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
+     <url>
+        <loc>https://mixue.koacook.com/</loc>
+        <lastmod>2025-07-12</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
+    </url>
 </urlset>

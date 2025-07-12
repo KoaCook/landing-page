@@ -7,6 +7,7 @@ import Contact from './component/Contact';
 import Pricing from './component/Pricing';
 import Services from './component/Services';
 import Review from './component/Testimonial';
+import OrderOnlinePage from './component/OrderOnlinePage';
 
 export const metadata = {
     title: 'KoaCook - Simplify Your Restaurant Management',
@@ -95,6 +96,8 @@ function HomePage() {
 
             {/* Pricing section */}
             <Pricing />
+
+            <OrderOnlinePage />
 
             {/* Blog section */}
             <Blog />
